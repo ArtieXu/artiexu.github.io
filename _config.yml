@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zechen Xu's personal page"
+title                    : "Zechen's personal page"
 title_separator          : "-"
 name                     : &name "Zechen Xu"
 description              : &description "This is Zechen Xu's Personal Page."
@@ -25,7 +25,7 @@ author:
   avatar           : "DSC_0928.jpg"
   name             : "Zechen Xu (徐泽辰)"
   pronouns         : "he/him/his" 
-  bio              : "M.S.E. BME JHU 25' | B.S. MSE TECHNION 23'"
+  bio              : "M.S.E. JHU 25' | B.S. TECHNION 23'"
   location         : "Baltimore, MD"
   employer         : "Johns Hopkins University"
   uri              : "https://artiexu.github.io/files/CV.pdf" # Used for Resume
